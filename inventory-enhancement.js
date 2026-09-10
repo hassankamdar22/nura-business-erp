@@ -1,0 +1,1 @@
+console.log('Nura inventory module loaded');
